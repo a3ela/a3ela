@@ -1,5 +1,10 @@
-## 👋 Hi,
- I am Abel - A junior Web developer and a Computer Science student.
+# Hi, I'm Abel👋👨🏾‍💻
+#
+<img src="https://user-images.githubusercontent.com/117747814/206424212-ef20ea17-5480-4b5d-a4a8-045369020afb.png" alt="drawing" width="90%"/>
+
+<br>
+ I am Abel - A junior Web developer and
+ a Computer Science student.
  I am well versed in Frontend development.
 ## 👀 I’m interested in ...
 ## 🌱 I’m currently learning Software Engineering at ALX Institute
