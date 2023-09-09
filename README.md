@@ -21,14 +21,13 @@
 <img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 </div>
 <div align=left>
- <br>
+ <br/>
+ 
+ ## About Me:
+ <br/>
  I am Abel - A junior Web developer and
  a Computer Science student.
  I am well versed in Frontend development.
-## 👀 I’m interested in ...
-## 🌱 I’m currently learning Software Engineering at ALX Institute
-## 💞️ I’m looking to collaborate on ...
-📫 How to reach abelrobel7@gmail.com or abelsintayehu626@gmail.com
 </div>
 
 
