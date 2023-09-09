@@ -24,15 +24,26 @@
  <br/>
  
  ## About Me:
- <br/>
- I am Abel - A junior Web developer and
- a Computer Science student.
- I am well versed in Frontend development.
+ I am Abel, a passionate and creative web developer with a strong background in computer science. I have experience in building responsive and user-friendly websites using the latest frontend technologies. I am always eager to learn new skills and collaborate with other developers on exciting projects. When I am not coding, I enjoy gaming and watching movies. I play a variety of games, such as Fortnite, Minecraft, Among Us, and Call of Duty. I also like to watch movies that are sci-fi, action, or comedy.
 </div>
 
+<!-- ## Connect with me:
+
+<img align=“left” alt=“Your Website” width=“22px” src=“https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg” />][website]
+[<img align=“left” alt=“Your Twitter” width=“22px” src=“https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg” />][twitter]
+[<img align=“left” alt=“Your LinkedIn” width=“22px” src=“https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg” />][linkedin]
+-->
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/a3ela/a3ela">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3ela&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
+</a>
+<a href="https://github.com/a3ela/a3ela">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3ela&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
+</a>
 
 <!---
 a3ela/a3ela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Snake animation](https://github.com/a3ela/a3ela/blob/output/github-contribution-grid-snake.svg)
