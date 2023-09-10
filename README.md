@@ -5,7 +5,7 @@
 
 ## I'm a Software engineer!
 
-<img align=right src="https://github.com/a3ela/Blog-web-app/blob/main/output-onlinegiftools.gif" alt="drawing" width="20%"/>
+<img align=right src="https://github.com/a3ela/Blog-web-app/blob/main/output-onlinegiftools.gif" alt="drawing" width="30%"/>
 
  🔭 I’m currently working on improving my  **programming**  skills. <br>
 🌱 I’m currently learning programming in C **to improve my problem-solving skills**. <br>
