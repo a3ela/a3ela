@@ -45,7 +45,7 @@
 <a href="https://github.com/a3ela/a3ela">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3ela&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
 </a>
-<a href="https://github.com/a3ela/a3ela">
+<!--<a href="https://github.com/a3ela/a3ela">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3ela&show_icons=true&line_height=27&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000"/>
 </a>
 
