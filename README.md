@@ -12,9 +12,9 @@
 👯 I’m looking to collaborate on **web development**.<br>
 🤔 I’m looking for help with  **building a web app using React and Firebase**.<br>
 💬 Ask me about  **anything related to frontend or web development in general**.<br>
-📫 How to reach me:  **abelsinayehu@gmail.com or @itsmeabela on Twitter**.<br>
+📫 How to reach me:  **webwizabel.com or www.linkedin.com/in/abelsintayehu**.<br>
 😄 Pronouns:  **he/him**.<br>
-⚡ Fun fact:  **I love playing video games we can play COD**.<br>
+⚡ Fun fact:  **I love playing video games we can play CODM**.<br>
 
 
 ## Languages and Tools:
