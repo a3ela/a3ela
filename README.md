@@ -19,12 +19,7 @@
 
 ## Languages and Tools:
 <div>
-<img align=left src="https://img.shields.io/badge/-HTML5-F3F7FA?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="html5">
-<img align=left src="https://img.shields.io/badge/-CSS3-F3F7FA?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="css3">
-<img align=left src="https://img.shields.io/badge/-Javascript-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="javascript">
-<img align=left src="https://img.shields.io/badge/-React-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="react">
-<img align=left src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
-<img align=top src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img src='https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,mongodb,express,react,nodejs,nginx,npm,ubuntu,linux,vim,bash,vscode,vite)](https://skillicons.dev' />
 </div>
 <div align=left>
  <br/>
