@@ -8,7 +8,7 @@
 <img align=right src="https://github.com/a3ela/Blog-web-app/blob/main/output-onlinegiftools.gif" alt="drawing" width="30%"/>
 
  🔭 I’m currently working on improving my  **programming**  skills. <br>
-🌱 I’m currently learning programming in C **to improve my problem-solving skills**. <br>
+🌱 I’m currently learning programming in C **to working on Django framework**. <br>
 👯 I’m looking to collaborate on **web development**.<br>
 🤔 I’m looking for help with  **building a web app using React and Firebase**.<br>
 💬 Ask me about  **anything related to frontend or web development in general**.<br>
